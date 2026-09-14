@@ -1,1 +1,1 @@
-# Digital-IC-Design
+# 8-bit ALU designed and verified using SystemVerilog
